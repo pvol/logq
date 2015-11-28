@@ -2,7 +2,7 @@
 
 /*
  * 从redis中的日志写入文件
- * @Author fanlibing
+ * @Author finepvol
  * 
  */
 
